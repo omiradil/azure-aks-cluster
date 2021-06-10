@@ -1,7 +1,7 @@
 aks_config = {
-  client_id     = "10f0ad13-d698-450b-988a-acf5c5e9c3a4"
-  client_secret = "NZ~7~1R7N_fq9kb4G3LQT7YLg3-XKmIaG_"
-  cluster_name  = "miradil"
+  client_id     = "your-client-id"
+  client_secret = "your-password"
+  cluster_name  = "cluster-name"
 
   adgroup_name                     = "AKS-cluster-admins"
   address_space                    = "10.1.0.0/16"
