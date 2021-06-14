@@ -2,7 +2,7 @@
 
 # creates AKS cluster
 
-### Create a file for each environment and run these commands according to your needs;
+### Create a file for each environment and run these commands;
 
 ```
 ENVIRONMENT=dev   make tf-fmt  tf-init  tf-plan  tf-apply
