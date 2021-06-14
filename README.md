@@ -1,6 +1,6 @@
 # azure-aks-cluster
 
-#creates AKS
+# creates AKS
 
 ### Create a file for each environment and run these commands according to your needs;
 
